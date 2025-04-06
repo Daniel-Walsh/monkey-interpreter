@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"dev.dwalsh.interpreter.monkey/token"
+	"monkey-interpreter/token"
 )
 
 func TestNextToken(t *testing.T) {

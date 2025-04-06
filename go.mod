@@ -1,3 +1,3 @@
-module dev.dwalsh.interpreter.monkey
+module monkey-interpreter
 
 go 1.22.0

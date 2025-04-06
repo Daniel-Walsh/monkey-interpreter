@@ -1,6 +1,6 @@
 package lexer
 
-import "dev.dwalsh.interpreter.monkey/token"
+import "monkey-interpreter/token"
 
 type Lexer struct {
 	input        string
